@@ -1,9 +1,9 @@
 <html>
 <body>
 	<h1>Hello World!</h1>
-	<h2> This is a for demonstrating Jenkins Integration</h2>
-	 <h1>Hello World!</h1>
-        <h2> demonstrating Jenkins Integration</h2>
+	<h2> >Hello World!</h2>
+	 <h1> This is for demonstrating Jenkins Integration</h1>
+        <h2> This is for demonstrating Jenkins Integration</h2>
 	
 <form>
 	First name:<br>
